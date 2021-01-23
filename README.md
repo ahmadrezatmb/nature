@@ -13,3 +13,5 @@ The territory of **Greece** is largely composed of limestone, which is why many 
 ### third place to go: *Maldives*
 <img src="3.jpg">
 **Maldives** - Nature and Wildlife. The islands that make up **Maldives** are characterised by beautiful blue oceans and amazing white sandy beaches. There are over 2,000 species of fish found in the waters surrounding the islands. There are mantra rays, stingrays and eagle rays as well as many kinds of anemones and jellyfish.
+ <h3> but how? </h3>
+ <P>there are many places to visit. but it is usually believed that only rich people can visit most of them. this is wrong idea. for more information <a href="google.com">click on this</a> </p>.
