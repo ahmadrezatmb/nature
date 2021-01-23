@@ -10,6 +10,6 @@
 <img src="2.jpg">
 The territory of **Greece** is largely composed of limestone, which is why many underground caves have been formed. Particularly the caves with stalactites and stalagmites are a miracle of nature. There are species of flora and fauna in the forests, caves, and gorges of **Greece**.
 
-### third place to go: **Maldives**
-<img src="3.jpg">
-Maldives - Nature and Wildlife. The islands that make up Maldives are characterised by beautiful blue oceans and amazing white sandy beaches. There are over 2,000 species of fish found in the waters surrounding the islands. There are mantra rays, stingrays and eagle rays as well as many kinds of anemones and jellyfish.
+### third place to go: *Maldives*
+<img src="3.jpeg">
+**Maldives** - Nature and Wildlife. The islands that make up **Maldives** are characterised by beautiful blue oceans and amazing white sandy beaches. There are over 2,000 species of fish found in the waters surrounding the islands. There are mantra rays, stingrays and eagle rays as well as many kinds of anemones and jellyfish.
